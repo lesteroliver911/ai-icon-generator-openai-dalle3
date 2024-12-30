@@ -2,7 +2,7 @@
 
 A single genai tool to generate custom icons instantly using OpenAI's DALL-E 3
 
-![AI Icon Generator Demo](https://raw.githubusercontent.com/lesteroliver911/ai-icon-generator-openai-dalle3/blob/main/src/ai-generator-icon.gif)
+![AI Icon Generator Demo](https://github.com/lesteroliver911/ai-icon-generator-openai-dalle3/blob/main/src/ai-generator-icon.gif)
 
 ## Overview
 
